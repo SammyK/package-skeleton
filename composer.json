@@ -1,5 +1,5 @@
 {
-    "name": "SammyK/:package_name",
+    "name": "sammyk/:package_name",
     "description": ":package_description",
     "keywords": [":keyword"],
     "homepage": "https://github.com/SammyK/:package_name",

@@ -18,7 +18,7 @@ Via Composer
 ``` json
 {
     "require": {
-        "SammyK/:package_name": "~1.0"
+        "sammyk/:package_name": "~1.0"
     }
 }
 ```
