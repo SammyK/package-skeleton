@@ -16,8 +16,8 @@
         "mockery/mockery": "dev-master@dev"
     },
     "autoload": {
-        "psr-0": {
-            "SammyK": ["src", "tests"]
+        "psr-4": {
+            "SammyK\\": ["src", "tests"]
         }
     }
 }

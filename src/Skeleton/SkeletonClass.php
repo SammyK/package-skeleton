@@ -1,18 +1,17 @@
 <?php namespace SammyK\Skeleton;
 
-class SkeletonClass
-{
+class SkeletonClass {
 
     /**
-     * Create a new Skeleton Instance
+     * Create a new Skeleton instance
      */
     public function __construct()
     {
     }
 
-
     /**
      * Friendly welcome
+     *
      * @param string $phrase Phrase to return
      * @return string Returns the phrase passed in
      */
@@ -20,4 +19,5 @@ class SkeletonClass
     {
         return $phrase;
     }
+
 }
