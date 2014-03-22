@@ -1,4 +1,4 @@
-<?php namespace SammyK\Skeleton;
+<?php
 
 class SkeletonClassTest extends \PHPUnit_Framework_TestCase {
 
