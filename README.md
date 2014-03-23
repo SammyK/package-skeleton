@@ -2,18 +2,25 @@ Package Skeleton
 ================
 
 [![Build Status](https://travis-ci.org/SammyK/PKGName.png?branch=master)](https://travis-ci.org/SammyK/PKGName)
-[![Total Downloads](https://poser.pugx.org/SammyK/PKGName/downloads.png)](https://packagist.org/packages/SammyK/PKGName)
-[![Latest Stable Version](https://poser.pugx.org/SammyK/PKGName/v/stable.png)](https://packagist.org/packages/SammyK/PKGName)
+[![Total Downloads](https://poser.pugx.org/sammyk/pkg-name/downloads.png)](https://packagist.org/packages/sammyk/pkg-name)
+[![Latest Stable Version](https://poser.pugx.org/sammyk/pkg-name/v/stable.png)](https://packagist.org/packages/sammyk/pkg-name)
+[![License](https://poser.pugx.org/sammyk/pkg-name/license.png)](https://packagist.org/packages/sammyk/pkg-name)
 
-**Replace PKGName with your own package name in the above URLs**
 
 :package_description
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Testing](#testing)
+- [Contributing](#contributing)
+- [Credits](#credits)
+- [License](#license)
 
 
 Installation
 ------------
 
-Via Composer
+Add the :package_name package to your `composer.json` file:
 
 ``` json
 {
