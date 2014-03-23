@@ -20,7 +20,7 @@ Package Skeleton
 Installation
 ------------
 
-Add the :package_name package to your `composer.json` file:
+Add the :package_name package to your `composer.json` file.
 
 ``` json
 {
@@ -30,6 +30,11 @@ Add the :package_name package to your `composer.json` file:
 }
 ```
 
+Or via the command line in the root of your Laravel installation.
+
+``` bash
+$ composer require sammyk/:package_name ~1.0
+```
 
 Usage
 -----
