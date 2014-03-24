@@ -1,13 +1,19 @@
 <?php
 
-class SkeletonClassTest extends \PHPUnit_Framework_TestCase {
+use SammyK\Skeleton\SkeletonClass;
+
+class SkeletonClassTest extends \PHPUnit_Framework_TestCase
+{
 
     /**
      * Test that true does in fact equal true
      */
-    public function testTrueIsTrue()
+    public function testEchoPhrase()
     {
-        $this->assertTrue(true);
+        $myObj = new SkeletonClass();
+
+        $res = $myObj->echoPhrase('foo');
+        $this->assertEquals($res, 'foo');
     }
 
 }

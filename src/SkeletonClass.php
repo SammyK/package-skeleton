@@ -1,6 +1,7 @@
 <?php namespace SammyK\Skeleton;
 
-class SkeletonClass {
+class SkeletonClass
+{
 
     /**
      * Create a new Skeleton instance
