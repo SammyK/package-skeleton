@@ -4,7 +4,6 @@ use SammyK\Skeleton\SkeletonClass;
 
 class SkeletonClassTest extends \PHPUnit_Framework_TestCase
 {
-
     /**
      * Test that true does in fact equal true
      */
@@ -15,5 +14,4 @@ class SkeletonClassTest extends \PHPUnit_Framework_TestCase
         $res = $myObj->echoPhrase('foo');
         $this->assertEquals($res, 'foo');
     }
-
 }

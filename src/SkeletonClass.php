@@ -2,7 +2,6 @@
 
 class SkeletonClass
 {
-
     /**
      * Create a new Skeleton instance
      */
@@ -20,5 +19,4 @@ class SkeletonClass
     {
         return $phrase;
     }
-
 }
