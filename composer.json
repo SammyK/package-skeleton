@@ -1,8 +1,8 @@
 {
-    "name": "sammyk/:package_name",
-    "description": ":package_description",
-    "keywords": [":keyword"],
-    "homepage": "https://github.com/SammyK/:package_name",
+    "name": "sammyk/package-skeleton",
+    "description": "A skeleton package to use as a base",
+    "keywords": ["skeleton"],
+    "homepage": "https://github.com/SammyK/package-skeleton",
     "license": "MIT",
     "authors": [
         {

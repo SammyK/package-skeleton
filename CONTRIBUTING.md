@@ -3,7 +3,7 @@ Contributing
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [Github](https://github.com/SammyK/PKGName).
+We accept contributions via Pull Requests on [Github](https://github.com/SammyK/package-skeleton).
 
 
 Pull Requests

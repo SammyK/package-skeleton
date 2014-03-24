@@ -20,12 +20,12 @@ Package Skeleton
 Installation
 ------------
 
-Add the :package_name package to your `composer.json` file.
+Add the package-skeleton package to your `composer.json` file.
 
 ``` json
 {
     "require": {
-        "sammyk/:package_name": "~1.0"
+        "sammyk/package-skeleton": "~1.0"
     }
 }
 ```
@@ -33,7 +33,7 @@ Add the :package_name package to your `composer.json` file.
 Or via the command line in the root of your Laravel installation.
 
 ``` bash
-$ composer require sammyk/:package_name ~1.0
+$ composer require sammyk/package-skeleton ~1.0
 ```
 
 Usage
@@ -57,17 +57,17 @@ $ phpunit
 Contributing
 ------------
 
-Please see [CONTRIBUTING](https://github.com/SammyK/:package_name/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/SammyK/package-skeleton/blob/master/CONTRIBUTING.md) for details.
 
 
 Credits
 -------
 
 - [Sammy Kaye Powers](https://github.com/SammyK)
-- [All Contributors](https://github.com/SammyK/:package_name/contributors)
+- [All Contributors](https://github.com/SammyK/package-skeleton/contributors)
 
 
 License
 -------
 
-The MIT License (MIT). Please see [License File](https://github.com/SammyK/:package_name/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/SammyK/package-skeleton/blob/master/LICENSE) for more information.
