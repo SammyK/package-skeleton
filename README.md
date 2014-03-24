@@ -1,10 +1,10 @@
 Package Skeleton
 ================
 
-[![Build Status](http://img.shields.io/travis/SammyK/PKGName.svg)](https://travis-ci.org/SammyK/PKGName)
-[![Total Downloads](http://img.shields.io/packagist/dm/sammyk/pkg-name.svg)](https://packagist.org/packages/sammyk/pkg-name)
-[![Latest Stable Version](http://img.shields.io/packagist/v/sammyk/pkg-name.svg)](https://packagist.org/packages/sammyk/pkg-name)
-[![License](http://img.shields.io/badge/license-MIT-lightgrey.svg)](https://packagist.org/packages/sammyk/pkg-name)
+[![Build Status](http://img.shields.io/travis/SammyK/package-skeleton.svg)](https://travis-ci.org/SammyK/package-skeleton)
+[![Total Downloads](http://img.shields.io/packagist/dm/sammyk/package-skeleton.svg)](https://packagist.org/packages/sammyk/package-skeleton)
+[![Latest Stable Version](http://img.shields.io/packagist/v/sammyk/package-skeleton.svg)](https://packagist.org/packages/sammyk/package-skeleton)
+[![License](http://img.shields.io/badge/license-MIT-lightgrey.svg)](https://packagist.org/packages/sammyk/package-skeleton)
 
 
 :package_description
