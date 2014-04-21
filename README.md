@@ -4,7 +4,7 @@ Package Skeleton
 [![Build Status](http://img.shields.io/travis/SammyK/package-skeleton.svg)](https://travis-ci.org/SammyK/package-skeleton)
 [![Total Downloads](http://img.shields.io/packagist/dm/sammyk/package-skeleton.svg)](https://packagist.org/packages/sammyk/package-skeleton)
 [![Latest Stable Version](http://img.shields.io/packagist/v/sammyk/package-skeleton.svg)](https://packagist.org/packages/sammyk/package-skeleton)
-[![License](http://img.shields.io/badge/license-MIT-lightgrey.svg)](https://packagist.org/packages/sammyk/package-skeleton)
+[![License](http://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/SammyK/package-skeleton/blob/master/LICENSE)
 
 
 :package_description
@@ -25,7 +25,7 @@ Add the package-skeleton package to your `composer.json` file.
 ``` json
 {
     "require": {
-        "sammyk/package-skeleton": "~1.0"
+        "sammyk/package-skeleton": "1.0.*"
     }
 }
 ```
@@ -33,14 +33,16 @@ Add the package-skeleton package to your `composer.json` file.
 Or via the command line in the root of your Laravel installation.
 
 ``` bash
-$ composer require sammyk/package-skeleton ~1.0
+$ composer require "sammyk/package-skeleton:1.0*"
 ```
 
 Usage
 -----
 
 ``` php
-$skeleton = new SammyK\Skeleton();
+use SammyK\Skeleton;
+
+$skeleton = new Skeleton();
 echo $skeleton->echoPhrase('Hello, World!');
 
 ```
